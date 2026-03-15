@@ -24,4 +24,8 @@ The environment is represented as a grid-based maze where:
 
 The maze structure is stored as a matrix where each cell represents a valid position in the environment.
 
-Example maze representation:
+## Project Notebook
+
+The full implementation, training process, and results can be viewed in the Jupyter Notebook below:
+
+- [Reinforcement Learning Treasure Maze Notebook](Johnson_Jessica_ProjectTwo.ipynb)
