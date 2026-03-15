@@ -1,7 +1,7 @@
 # Reinforcement Learning Treasure Maze
 
 ## Author: Jessica Johnson
-## Language: Python
+## Language: Python (TensorFlow / Keras)
 
 ## Overview
 
