@@ -1,5 +1,5 @@
 # Reinforcement Learning Treasure Maze
-
+Python | TensorFlow | Deep Q-Learning
 ## Author: Jessica Johnson
 ## Language: Python (TensorFlow / Keras)
 
@@ -29,3 +29,14 @@ The maze structure is stored as a matrix where each cell represents a valid posi
 The full implementation, training process, and results can be viewed in the Jupyter Notebook below:
 
 - [Reinforcement Learning Treasure Maze Notebook](Johnson_Jessica_ProjectTwo.ipynb)
+
+## Training Results
+
+During training, the agent gradually improved its navigation strategy as it learned from rewards and penalties.
+
+Over many training episodes, the win rate increased until the model consistently found the optimal path to the treasure.
+
+Example training output:
+- Epoch: 191/999
+- Loss: 0.0003
+- Win rate: 1.000
